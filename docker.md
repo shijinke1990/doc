@@ -1,0 +1,3 @@
+# 指定port
+
+使用docker运行mongo请指定port为27017，不然compass默认连接会连接不上
