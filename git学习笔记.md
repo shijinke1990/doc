@@ -27,9 +27,7 @@ git 中使用这种哈希值的情况很多。实际上，git 数据库中保存
 
 1. Dd
 
-   ![](/Users/shijinke/Pictures/20180819222708680.png)
-
-
+![](/Users/shijinke/resume/doc/20180819222708680.png)
 
 # 工作区，暂存区，版本库
 
